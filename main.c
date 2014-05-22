@@ -10,6 +10,7 @@ int main( void )
   
   int x = 5;
   int y = 400;
+  double g = 9.8;
 
   return 0;
 }
