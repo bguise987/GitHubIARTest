@@ -10,7 +10,11 @@ int main( void )
   
   int x = 5;
   int y = 400;
-  double g = 9.8;
+  //Here is a comment
+  
+  char boolVal = 0;
+  
+  char testChar = 'f';
 
   return 0;
 }
